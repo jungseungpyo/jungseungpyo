@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungseungpyo&show_icons=true&title_color=FF1F6F&text_color=55D7E7&bg_color=000000&icon_color=FCED6C)](https://github.com/jungseungpyo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungseungpyo&show_icons=true)](https://github.com/jungseungpyo/github-readme-stats)
