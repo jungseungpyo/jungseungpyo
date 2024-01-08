@@ -7,7 +7,7 @@ __________________________________
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungseungpyo&show_icons=true)](https://github.com/jungseungpyo/github-readme-stats)
 
-## 💻 DEV's log 💻
+## 💻 Git hub 💻
 <div style="display:flex; flex-direction:row;">
   <a href="https://github.com/jungseungpyo">
     <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -26,9 +26,6 @@ __________________________________
     <a href="https://www.instagram.com/pyo__o13">
          <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
     </a>
-
-
-
   
   ## 📄 My stack 📄
   
@@ -44,10 +41,6 @@ __________________________________
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
-</div>
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-   <p><strong>Version Control</strong></p>
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 </div>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
    <p><strong>Communication</strong></p>
