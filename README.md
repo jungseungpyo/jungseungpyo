@@ -1,6 +1,6 @@
 <div align="left">
   
-![header](https://capsule-render.vercel.app/api?type=Wave&text=jungseungpyo&color=b7effb&section=header&height=170&fontAlignY=35&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Wave&text=jungseungpyo&color=A1EEBD&section=header&height=170&fontAlignY=35&animation=twinkling)
 </div>
 
 __________________________________
