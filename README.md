@@ -18,13 +18,13 @@ __________________________________
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:s23052@gsm.hs.kr">
-        <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+        <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=black"/>
     </a>
     <a href="https://open.kakao.com/o/sto19w2f">
-      <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black"/>   
+      <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/>   
     </a>
     <a href="https://www.instagram.com/pyo__o13">
-         <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+         <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=black"/>
     </a>
   
   ## 📄 My stack 📄
@@ -45,12 +45,12 @@ __________________________________
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
    <p><strong>Communication</strong></p>
 <a href="mailto:s23052@gsm.hs.kr">
-  <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/pyo__o130">
-  <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=black"/>
 </a>
 <a href="https://open.kakao.com/o/sto19w2f">
-  <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black"/>
+  <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/pyo__o130">
+  <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=black"/>
 </a>
 </div>
