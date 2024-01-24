@@ -1,4 +1,4 @@
-<div align="left">
+<div align="right">
   
 ![header](https://capsule-render.vercel.app/api?type=Wave&text=jungseungpyo&color=A1EEBD&section=header&height=170&fontAlignY=35&animation=twinkling)
 </div>
