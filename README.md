@@ -44,7 +44,7 @@ __________________________________
 </div>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
    <p><strong>Communication</strong></p>
-<a href="mailto:S23052@gsm.hs.kr">
+<a href="mailto:s23052@gsm.hs.kr">
   <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://open.kakao.com/o/sto19w2f">
