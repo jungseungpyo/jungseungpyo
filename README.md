@@ -27,7 +27,7 @@ __________________________________
          <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
     </a>
   
-  ## 📄 My stack 📄
+  ## 📃 My stack 📃
   
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
    <p><strong>Frontend</strong></p>
