@@ -14,7 +14,6 @@ __________________________________
 </div>
   </a>
 </div>
-
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:s23052@gsm.hs.kr">
@@ -28,7 +27,6 @@ __________________________________
     </a>
   
   ## 📃 My stack 📃
-  
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
    <p><strong>Frontend</strong></p>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
