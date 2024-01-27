@@ -8,13 +8,16 @@ __________________________________
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungseungpyo&show_icons=true)](https://github.com/jungseungpyo/github-readme-stats)
 
 ## 💻 Git hub 💻
+
 <div style="display:flex; flex-direction:row;">
   <a href="https://github.com/jungseungpyo">
     <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 </div>
   </a>
 </div>
+
 ## 📞 Contact 📞
+
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:s23052@gsm.hs.kr">
         <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
