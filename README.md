@@ -2,7 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Wave&text=jungseungpyo&color=A1EEBD&section=header&height=170&fontAlignY=35&animation=twinkling)
 </div>
-
 __________________________________
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungseungpyo&show_icons=true)](https://github.com/jungseungpyo/github-readme-stats)
